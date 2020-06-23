@@ -1,21 +1,13 @@
-import {
-    createScreen,
-    appendScreens
-} from "./Screen.js";
+import { createScreen, appendScreens } from "./Screen.js";
 
-import {
-    Percentage
-} from "./Maths.js";
+import { Percentage } from "./Maths.js";
 import Engine from "./engine/Engine.js";
 import LoadManager from "./loads/LoadManager.js";
-import {
-    launchFullScreen
-} from "./Util.js"
+import { launchFullScreen } from "./Util.js"
 
 
 
 async function main() {
-    //launchFullScreen();
     window.removeEventListener("click", userInteraction);
     const audioCtx = new AudioContext();
 
@@ -46,7 +38,7 @@ async function main() {
 
     audio.play("bg", true);
 
-
+    launchFullScreen();
 }
 window.addEventListener("click", userInteraction);
 
