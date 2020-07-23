@@ -1,7 +1,7 @@
 [{
         "todo": "carga y render de graficos y spritesheets",
         "state": false,
-        "res": null
+        "res": "Luis"
     },
     {
         "todo": "sistema de colisiones",
@@ -11,7 +11,7 @@
     {
         "todo": "carga y render de audio",
         "state": false,
-        "res": null
+        "res": "Luis"
     },
     {
         "todo": "animacion de sprites",
