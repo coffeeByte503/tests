@@ -1,0 +1,56 @@
+[{
+        "todo": "carga y render de graficos y spritesheets",
+        "state": false,
+        "res": null
+    },
+    {
+        "todo": "sistema de colisiones",
+        "state": false,
+        "res": null
+    },
+    {
+        "todo": "carga y render de audio",
+        "state": false,
+        "res": null
+    },
+    {
+        "todo": "animacion de sprites",
+        "state": false,
+        "res": null
+    },
+    {
+        "todo": "animacion de objetos (canvas)",
+        "state": false,
+        "res": null
+    },
+    {
+        "todo": "diseño de GUI & UX",
+        "state": false,
+        "res": null
+    },
+    {
+        "todo": "sistema de batallas",
+        "state": false,
+        "res": null
+    },
+    {
+        "todo": "historia",
+        "state": false,
+        "res": null
+    },
+    {
+        "todo": "extracción de sprites",
+        "state": false,
+        "res": "Luis"
+    },
+    {
+        "todo": "base de datos",
+        "state": false,
+        "res": null
+    },
+    {
+        "todo": "registro de usuarios",
+        "state": false,
+        "res": null
+    }
+]
