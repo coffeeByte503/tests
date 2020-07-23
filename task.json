@@ -46,11 +46,11 @@
     {
         "todo": "base de datos",
         "state": false,
-        "res": null
+        "res": "Sandra"
     },
     {
         "todo": "registro de usuarios",
         "state": false,
-        "res": null
+        "res": "Sandra"
     }
 ]
