@@ -26,7 +26,7 @@
     {
         "todo": "diseño de GUI & UX",
         "state": false,
-        "res": null
+        "res": "Dalia"
     },
     {
         "todo": "sistema de batallas",
@@ -36,17 +36,17 @@
     {
         "todo": "historia",
         "state": false,
-        "res": null
+        "res": "Reymon"
     },
     {
         "todo": "extracción de sprites",
         "state": false,
-        "res": null
+        "res": "Luis"
     },
     {
         "todo": "base de datos",
         "state": false,
-        "res": "Sandra"
+        "res": "Sandra, Dalia"
     },
     {
         "todo": "registro de usuarios",
