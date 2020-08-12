@@ -1,0 +1,67 @@
+[{
+        "enunciado": " Un paciente de 68 años, diabético de larga data, fumador, presenta pérdida brusca de la visión del ojo derecho, sin dolor. ¿Cuál es el diagnóstico más probable?",
+        "opciones": [
+            "Infarto occipital ",
+            "Desprendimiento de retina ",
+            "Hemorragia vítrea ",
+            "Degeneración macular ",
+            "Edema macular"
+        ],
+        "respuesta": "Hemorragia vítrea"
+    },
+    {
+        "enunciado": "Se busca la asociación entre distintos parámetros con el cáncer de tiroides, en un estudio de caso – control, con el Odds Ratio (OR), más un intervalo de confianza (IC) al 95%, obteniéndose los resultados hipotéticos que se muestran a continuación. ¿Qué factor es más importante en esta asociación? ",
+        "opciones": [
+            "Antecedentes familiares: OR: 1,88 ; IC [0,56 – 4,01] ",
+            "Edad: OR: 2,6 ; IC [0,95 – 3,17] ",
+            "Sexo masculino: OR: 0,56 ; IC [0,33 – 0,87] ",
+            "Tiroiditis de Hashimoto: OR: 4,6 ; IC [0,7 – 6,2] ",
+            "Exposición a radiación: OR: 1,89 ; IC [1,0 – 3,01] "
+        ],
+        "respuesta": "Sexo masculino: OR: 0,56 ; IC [0,33 – 0,87]"
+    },
+    {
+        "enunciado": "Un paciente de 38 años, obesa, en tratamiento con antifúngicos orales desde hace 2 meses por onicomicosis, consulta por un cuadro de 7 días de evolución de prurito, ictericia y acolia, sin dolor abdominal. En su examen físico se aprecia ictérico, afebril, con FC: 70x’, PA: 110/70 mmHg, con abdomen blando, depresible. Se solicitan pruebas hepáticas, que muestran un patrón colestásico y la ecografía abdominal demuestra vesícula biliar con barro biliar y colédoco de 10 mm diámetro. ¿Cuál es el diagnóstico más probable? ",
+        "opciones": [
+            "Coledocolitiasis ",
+            "Colestasia farmacológica ",
+            "Colangitis aguda ",
+            "Colestasia por esteatosis hepática ",
+            "Colelitiasis"
+        ],
+        "respuesta": " Coledocolitiasis "
+    },
+    {
+        "enunciado": "En un estudio se realiza la validación y estandarización de las encuestas a aplicar. ¿Qué tipo de sesgo se busca evitar? ",
+        "opciones": [
+            "Sesgo de memoria ",
+            "Sesgo de información ",
+            "Sesgo de confusión ",
+            "Sesgo de notificación ",
+            "Sesgo del entrevistador "
+        ],
+        "respuesta": " Sesgo de información"
+    },
+    {
+        "enunciado": " Una paciente de 42 años, que 2 meses después de un quiebre conyugal, evoluciona con un cuadro de delirio de persecución y alucinaciones auditivas, asociado a marcada tristeza, anhedonia, irritabilidad y culpa patológica. Como antecedentes psiquiátricos, ella sufrió una depresión postparto y uno de sus tíos está en tratamiento con litio. ¿Cuál es el diagnóstico más probable? ",
+        "opciones": [
+            "Depresión psicótica ",
+            "Trastorno adaptativo mixto",
+            "Trastorno esquizoafectivo ",
+            "Esquizofrenia ",
+            "Trastorno esquizoide "
+        ],
+        "respuesta": "Trastorno esquizoafectivo"
+    },
+    {
+        "enunciado": "Un paciente de 35 años, colecistectomizado hace 6 meses por vía laparoscópica, consulta por dolor epigástrico, progresivo, que inició hace 24 horas y que se ha asociado a ictericia y acolia. Al examen físico está afebril, con FC: 80x' y PA: 120/76 mmHg y se aprecia dolor a la palpación del hemiabdomen superior e ictericia de piel y mucosas. Se solicitan pruebas hepáticas que muestran GOT: 45 UI/L, GPT: 52 UI/L, FA: 430 UI/L, GGT: 566 UI/L, bilirrubina de 6,4 mg/dl y TP: 88%. ¿Cuál es el examen de elección para establecer el diagnóstico? ",
+        "opciones": [
+            "TAC de abdomen ",
+            "Ecografía abdominal ",
+            "Resonancia magnética nuclear abdominal",
+            "Colangioresonancia ",
+            "Colangiopancreatografía retrógrada endoscópica"
+        ],
+        "respuesta": "Colangioresonancia "
+    }
+]
